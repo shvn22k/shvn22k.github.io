@@ -1,7 +1,7 @@
 ---
 title: 'Blog 1 - Coming soon'
 date: 2024-xx-xx
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/blog1/
 tags:
   - Machine Learning
   - Algorithms
