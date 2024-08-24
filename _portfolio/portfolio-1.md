@@ -1,6 +1,6 @@
 ---
 title: "ML algorithms from Scratch"
-excerpt: "Implemented some supervised ML algorithms from scratch.<br/><img src='images\ML Algorithms from Scratch.png'>"
+excerpt: "Implemented some supervised ML algorithms from scratch.<br/><img src='/images/ML Algorithms from Scratch.png'>"
 collection: portfolio
 ---
 
