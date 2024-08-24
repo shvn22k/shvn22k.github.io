@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-🧑‍💻 Hi there, myself Shiven, a B.Tech'27 undergraduate student from GLBITM, UP, India. I'm aspiring to be a ML engineer and currently learning by exploring Data science and Machine Learning. 
+🧑‍💻 Hi there, myself Shiven, a B.Tech'27 undergraduate student from GLBITM, UP, India. I'm aspiring to be a (coming soon) and currently learning by exploring Data science and Machine Learning. 
 
 About me
 ======
