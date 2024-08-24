@@ -1,5 +1,5 @@
 ---
-permalink: /home
+permalink: /
 title: "Hello! I'm Shiven 😄👋"
 author_profile: true
 redirect_from: 
