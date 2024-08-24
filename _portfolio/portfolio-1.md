@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "ML algorithms from Scratch"
+excerpt: "Implemented some supervised ML algorithms from scratch.<br/><img src='images\ML Algorithms from Scratch.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project serves the purpose of demonstration of my understanding of how an ML algorithm works and what is the math behind it. It helped me dive deep into the mathematical intuition of some classical ML algorithms. The code is available in modular format, ready to be used in making models for actual projects. 
+
+Check out the project here: [Github Repository](https://github.com/shvn22k/MLalgos-from-scratch)
