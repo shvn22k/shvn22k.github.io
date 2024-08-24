@@ -12,7 +12,7 @@ title                    : "Shiven's Space"
 title_separator          : "-"
 name                     : &name "Shiven Kumar"
 description              : &description "personal description"
-url                      : https://shvn22k.github.io/home # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shvn22k.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shvn22k/shvn22k.github.io"
 
