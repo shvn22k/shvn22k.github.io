@@ -1,6 +1,6 @@
 ---
 title: "Heart Disease Prediction"
-excerpt: "(end-to-end) eployed a heart disease prediction model to web.<br/><img src='/images/Heart-Disease-Pred.png'>"
+excerpt: "(end-to-end) deployed a heart disease prediction model to web.<br/><img src='/images/Heart-Disease-Pred.png'>"
 collection: portfolio
 ---
 
